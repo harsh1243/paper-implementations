@@ -1,1 +1,1 @@
-GANS - Paper Implementation
+Implemented Conditional GAN (cGAN) for  digit generation using MNIST
